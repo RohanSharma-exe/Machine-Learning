@@ -15,7 +15,7 @@ The dataset used for training and evaluation is assumed to be located in the `/c
 **Usage:**
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/height-weight-regression.git
+   git clone https://github.com/RohanSharma-exe/Machine-Learning/tree/main/Simple%20Linear%20Regression.git
    ```
 2. **Install dependencies:**
    ```bash
